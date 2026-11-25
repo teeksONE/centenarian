@@ -1,0 +1,5 @@
+title: Centenarian
+description: A habit tracker for healthy ageing
+theme: jekyll-theme-primer
+exclude:
+  - README.md
